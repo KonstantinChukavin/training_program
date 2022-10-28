@@ -1,3 +1,10 @@
 .description-bckg {
     background: #9a9a9a;
+    width: 100%;
+    max-width: 990px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
 }

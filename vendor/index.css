@@ -21,6 +21,8 @@
 @import url(../blocks/table-bckg/table-bckg.css);
 @import url(../blocks/table-bckg/__first/table-bckg__first.css);
 @import url(../blocks/table-bckg/__second/table-bckg__second.css);
+@import url(../blocks/table-bckg/__four/table-bckg__four.css);
+@import url(../blocks/table-bckg/__five/table-bckg__five.css);
 /*__________________________________________________________*/
 @import url(../blocks/text-style/text-style.css);
 @import url(../blocks/text-style/__strong/text-style__strong.css);
