@@ -1,0 +1,7 @@
+.header__paragraph {
+    height: 100%;
+    color: #14181d;
+    font-weight: bold;
+    line-height: 16px;
+    border-right: 1px solid #4a4a4a;
+}

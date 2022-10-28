@@ -1,0 +1,10 @@
+.hiader {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: inherit;
+    width: 100%;
+    max-width: 1155px;
+    height: 60px;
+    background-color: #cccc26;
+}

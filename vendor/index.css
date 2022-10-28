@@ -1,0 +1,38 @@
+@import url(../vendor/normalize.css);
+/*__________________________________________________________*/
+@import url(../vendor/fonts.css);
+/*__________________________________________________________*/
+@import url(../blocks/body/body.css);
+/*__________________________________________________________*/
+@import url(../blocks/main/main.css);
+/*__________________________________________________________*/
+@import url(../blocks/paragraph/paragraph.css);
+/*__________________________________________________________*/
+@import url(../blocks/day/day.css);
+/*__________________________________________________________*/
+@import url(../blocks/hiader/hiader.css);
+@import url(../blocks/hiader/__paragraph/header__paragraph.css);
+@import url(../blocks/hiader/__paragraph/_1/header__paragraph_1.css);
+@import url(../blocks/hiader/__paragraph/_2/header__paragraph_2.css);
+@import url(../blocks/hiader/__paragraph/_3/header__paragraph_3.css);
+@import url(../blocks/hiader/__paragraph/_4/header__paragraph_4.css);
+@import url(../blocks/hiader/__paragraph/_5/header__paragraph_5.css);
+/*__________________________________________________________*/
+@import url(../blocks/table-bckg/table-bckg.css);
+@import url(../blocks/table-bckg/__first/table-bckg__first.css);
+@import url(../blocks/table-bckg/__second/table-bckg__second.css);
+/*__________________________________________________________*/
+@import url(../blocks/text-style/text-style.css);
+@import url(../blocks/text-style/__strong/text-style__strong.css);
+/*__________________________________________________________*/
+@import url(../blocks/table/table.css);
+/*__________________________________________________________*/
+@import url(../blocks/grup/grup.css);
+@import url(../blocks/grup/__second/grup__second.css);
+/*__________________________________________________________*/
+@import url(../blocks/title/title.css);
+/*__________________________________________________________*/
+@import url(../blocks/sub-title/sub-title.css);
+/*__________________________________________________________*/
+@import url(../blocks/description-bckg/description-bckg.css);
+/*__________________________________________________________*/

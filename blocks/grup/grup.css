@@ -1,0 +1,6 @@
+.grup {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    background-color: #14181d;
+}
