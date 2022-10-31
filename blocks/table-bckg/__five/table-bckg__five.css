@@ -5,7 +5,7 @@
 @media screen and (max-width: 800px) {
     .table-bckg__five {
         background-image: url(../../../vendor/image/Без\ имени-5.png);
-        background-position: center;
+        background-position: left;
         background-repeat: no-repeat;
     }
 }
