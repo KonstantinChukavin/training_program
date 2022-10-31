@@ -1,7 +1,10 @@
 .title {
+    margin: 10px;
+    margin-bottom: 0;
     font-weight: bold;
     color: #000000;
     line-height: 16px;
+    font-weight: bold;
     text-align: center;
     text-transform: uppercase;
 }

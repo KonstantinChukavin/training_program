@@ -1,3 +1,11 @@
 .table-bckg__first {
     background-color: #393c1f;
 }
+
+@media screen and (max-width: 800px) {
+    .table-bckg__first {
+        background-image: url(../../../vendor/image/Без\ имени-1-2.png);
+        background-position: center;
+        background-repeat: no-repeat;
+    }
+}

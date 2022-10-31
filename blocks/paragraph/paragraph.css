@@ -1,6 +1,12 @@
 .paragraph {
     margin: 0;
-    padding: 0;
+    padding: 10px;
     border-right: 1px solid #4a4a4a;
-    border-top: 1px solid #4a4a4a;
+    box-sizing: border-box;
+}
+
+@media screen and (max-width: 520px) {
+    .paragraph {
+        padding: 2px;
+    }
 }

@@ -1,4 +1,6 @@
 .grup__second {
     display: flex;
     flex-direction: column;
+    border-bottom: 1px solid #4a4a4a;
+    border-right: 1px solid #4a4a4a;
 }

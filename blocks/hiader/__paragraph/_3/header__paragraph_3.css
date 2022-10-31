@@ -2,3 +2,9 @@
     width: 100%;
     max-width: 114px;
 }
+
+@media screen and (max-width: 570px) {
+    .header__paragraph_3 {
+        max-width: 70px;
+    }
+}

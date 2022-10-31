@@ -1,7 +1,10 @@
 .header__paragraph {
     height: 100%;
+    margin: 0;
+    padding-left: 10px;
     color: #14181d;
     font-weight: bold;
     line-height: 16px;
-    border-right: 1px solid #4a4a4a;
+    box-sizing: border-box;
+    /*  border-right: 1px solid #4a4a4a;*/
 }
